@@ -1,0 +1,23 @@
+{
+  "name": "octorole-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^6.8.0",
+    "@sentry/tracing": "^6.8.0",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "paypal-node-sdk": "^2.0.3"
+  }
+}
